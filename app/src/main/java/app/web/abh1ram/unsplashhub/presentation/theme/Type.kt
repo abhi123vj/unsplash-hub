@@ -1,4 +1,4 @@
-package app.web.abh1ram.unsplashhub.ui.theme
+package app.web.abh1ram.unsplashhub.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

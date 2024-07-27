@@ -1,4 +1,4 @@
-package app.web.abh1ram.unsplashhub.ui.theme
+package app.web.abh1ram.unsplashhub.presentation.theme
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
